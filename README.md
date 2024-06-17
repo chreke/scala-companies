@@ -12,12 +12,12 @@ If you would like to make changes to this list, please make a pull request to th
 
 If a company is open to remote positions, please indicate so in the "Remote OK?" column. Also, please specify whether it's:
 
- - Remote (no exceptions)
- - Remote within a given timezone (or similar, e.g. within the EU)
- - Remote within a given country
+ - Remote (no exceptions), e.g. "Yes"
+ - Remote within a given timezone (or similar, e.g. within the EU), e.g. "Yes (within EU)"
+ - Remote within a given country, e.g. "Yes (from the US)"
 
 ## Companies
 
 | Name | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :----- | :----- | :--------- |
-[Pagero](https://www.pagero.com/) | Sweden, Gothenburg | Accounting | [LinkedIn](https://www.linkedin.com/jobs/view/3930611205/)
+[Pagero](https://www.pagero.com/) | Sweden, Gothenburg | Accounting | [LinkedIn](https://www.linkedin.com/jobs/view/3930611205/) | Yes
