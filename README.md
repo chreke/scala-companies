@@ -15,6 +15,7 @@ If a company is open to remote positions, please indicate so in the "Remote OK?"
  - Remote (no exceptions), e.g. "Yes"
  - Remote within a given timezone or simliar, e.g. "Yes (within EU)"
  - Remote within a given country, e.g. "Yes (from the US)"
+ - Hybrid, e.g. some days on site, e.g. "Yes (hybrid)"
 
 ## Companies
 
@@ -22,3 +23,4 @@ If a company is open to remote positions, please indicate so in the "Remote OK?"
 | :--- | :------- | :----- | :----- | :--------- |
 [Evolution](https://www.evolution.com/) | Sweden, Estonia, Latvia, Poland | Gaming | [Careers page](https://careers.evolution.com/) | No
 [Pagero](https://www.pagero.com/) | Sweden, Gothenburg | Accounting | [LinkedIn](https://www.linkedin.com/jobs/view/3930611205/) | Yes
+[Youmoni](https://youmoni.com/) | Sweden | IoT | [Careers page](https://youmoni.com/career) | Yes (hybrid)
