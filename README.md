@@ -8,7 +8,7 @@ I have collected a "list of list" of [functional programming companies](https://
 
 If you would like to make changes to this list, please make a pull request to this repository.
 
-## Remote
+### Remote
 
 If a company is open to remote positions, please indicate so in the "Remote OK?" column. Also, please specify whether it's:
 
