@@ -20,4 +20,5 @@ If a company is open to remote positions, please indicate so in the "Remote OK?"
 
 | Name | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :----- | :----- | :--------- |
+[Evolution](https://www.evolution.com/) | Sweden, Estonia, Latvia, Poland | Gaming | [Careers page](https://careers.evolution.com/) | No
 [Pagero](https://www.pagero.com/) | Sweden, Gothenburg | Accounting | [LinkedIn](https://www.linkedin.com/jobs/view/3930611205/) | Yes
