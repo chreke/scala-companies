@@ -2,7 +2,7 @@
 
 ## Similar lists
 
-I have collected a "list of list" of [functional programming companies](https://github.com/chreke/fp-companies) that contain links to other lists like this.
+I have collected a "list of lists" of [functional programming companies](https://github.com/chreke/fp-companies) with links to other lists like this.
 
 ## Contributing
 
@@ -15,7 +15,7 @@ If a company is open to remote positions, please indicate so in the "Remote OK?"
  - Remote (no exceptions), e.g. "Yes"
  - Remote within a given timezone or simliar, e.g. "Yes (within EU)"
  - Remote within a given country, e.g. "Yes (from the US)"
- - Hybrid, e.g. some days on site, e.g. "Yes (hybrid)"
+ - Hybrid remote, i.e. remote with some days on site, e.g. "Yes (hybrid)"
 
 ## Companies
 
