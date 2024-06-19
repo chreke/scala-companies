@@ -26,3 +26,4 @@ If a company is open to remote positions, please indicate so in the "Remote OK?"
 [TrueCaller](https://www.truecaller.com/) | Sweden (Stockholm) | Call screening | [Job ad](https://www.truecaller.com/careers/jobs/5403301) | Yes (hybrid)
 [Wolt](https://wolt.com/) | Sweden, Finland | Food delivery | [Scala at Wolt](https://careers.wolt.com/en/blog/tech/scala-at-wolt-our-scala-organization-part-i) | No
 [Youmoni](https://youmoni.com/) | Sweden | IoT | [Careers page](https://youmoni.com/career) | Yes (hybrid)
+[Zalando](https://zalando.com/) | Germany (Berlin), Finland (Helsinki) | Ecommerce | [Tech blog](https://engineering.zalando.com/tags/scala.html) | Yes (hybrid)
