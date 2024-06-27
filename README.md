@@ -1,5 +1,7 @@
 # A List of companies that use Scala
 
+This is a list of companies that use Scala in production. Heavily inspired by a similar [list of Haskell companies](https://github.com/erkmos/haskell-companies).
+
 ## Similar lists
 
 I have collected a "list of lists" of [functional programming companies](https://github.com/chreke/fp-companies) with links to other lists like this.
